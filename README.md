@@ -58,7 +58,7 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
-- [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
+- [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#🎙️-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
 - [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
 - [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
 - [**2025.02.26** - Microsoft Reactor - Using the OWASP DSOMM with GitHub](#-20250226-microsoft-reactor---using-the-owasp-dsomm-with-github)
