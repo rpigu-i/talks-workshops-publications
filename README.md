@@ -58,6 +58,7 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#🎙️-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
 - [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
 - [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
 - [**2025.02.26** - Microsoft Reactor - Using the OWASP DSOMM with GitHub](#-20250226-microsoft-reactor---using-the-owasp-dsomm-with-github)
@@ -90,11 +91,33 @@ $ cat /proc/presentations/manifest
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │ >> INITIALIZING PRESENTATION MODULES...                        │
-│ >> TIMELINE: 2018.07 - 2025.02                                 │
+│ >> TIMELINE: 2018.07 - 2025.06                                 │
 │ >> THREAT LEVEL: EDUCATIONAL                                   │
 └────────────────────────────────────────────────────────────────┘
 ```
 
+
+### 🎙️ **[2025.06.11]** Security Repo Podcast - *Reducing Developer Toil, Shifting Security Left, And Using Caution With AI*
+
+```diff
++ PROTOCOL: Podcast | FORMAT: Interview
++ PRESENTER: Solo Guest Appearance
++ PLATFORM: Security Repo Podcast
++ FOCUS: Developer Experience + Security + AI Caution
+```
+
+Podcast episode discussing the intersection of developer productivity, security practices, and responsible AI usage.
+
+Topics covered include strategies for reducing developer toil, implementing shift-left security practices effectively, and maintaining caution when leveraging AI tools in development workflows.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://podcasts.apple.com/us/podcast/reducing-developer-toil-shifting-security-left-and/id1634401017?i=1000712466664"
+```
+
+**🔗 [NETWORK_LINK]** https://podcasts.apple.com/us/podcast/reducing-developer-toil-shifting-security-left-and/id1634401017?i=1000712466664
+
+---
 
 ### 🌆 **[2025.04.26]** BSides San Francisco - *Shifting Left: A Hands-on Introductory Guide to DevSecOps*
 ```diff
