@@ -58,6 +58,7 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2026.10.02** - XBOW Showcase Tokyo - AI vs AI: Offensive Security with Human + AI](#🎌-20261002-xbow-showcase-tokyo---aiにはaiで対抗する人間aiで実現するオフェンシブセキュリティ)
 - [**2026.08.07-08** - DEFCON AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260807-08-defcon-appsec-village---ai-pentesting-trivia-showdown)
 - [**2026.04.20** - SANS AI Cybersecurity Summit - Offensive AI in Practice Workshop](#🛡️-20260420-sans-ai-cybersecurity-summit---offensive-ai-in-practice-hands-on-exploitation-of-vulnerable-applications-using-open-source-ai-tools)
 - [**2026.03.25** - RSAC AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260325-rsac-appsec-village---ai-pentesting-trivia-showdown)
@@ -94,11 +95,34 @@ $ cat /proc/presentations/manifest
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │ >> INITIALIZING PRESENTATION MODULES...                        │
-│ >> TIMELINE: 2018.07 - 2026.08                                 │
+│ >> TIMELINE: 2018.07 - 2026.10                                 │
 │ >> THREAT LEVEL: EDUCATIONAL                                   │
 └────────────────────────────────────────────────────────────────┘
 ```
 
+
+### 🎌 **[2026.10.02]** XBOW Showcase Tokyo - *AIにはAIで対抗する：「人間＋AI」で実現するオフェンシブ・セキュリティ*
+
+```diff
++ PROTOCOL: Talk | FORMAT: Showcase Presentation
++ PRESENTER: Andy Dennis
++ LOCATION: SOIl Shibuya, Tokyo, Japan
++ TIME: 18:40 JST
++ FOCUS: AI-Powered Offensive Security + Human-AI Collaboration
+```
+
+Talk at XBOW Showcase in Tokyo exploring AI-powered offensive security techniques and the synergy between human expertise and AI capabilities.
+
+This presentation demonstrates how defenders can leverage AI tools to counter AI-enhanced threats, focusing on the "Human + AI" approach to offensive security operations. The session covers practical applications of AI in penetration testing and security assessments within the Japanese cybersecurity context.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://luma.com/rnymukid"
+```
+
+**🔗 [NETWORK_LINK]** https://luma.com/rnymukid
+
+---
 
 ### 🎯 **[2026.08.07-08]** DEFCON AppSec Village - *AI Pentesting Trivia Showdown*
 
