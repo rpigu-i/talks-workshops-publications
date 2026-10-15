@@ -58,7 +58,9 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2026.08.07-08** - DEFCON AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260807-08-defcon-appsec-village---ai-pentesting-trivia-showdown)
 - [**2026.04.20** - SANS AI Cybersecurity Summit - Offensive AI in Practice Workshop](#🛡️-20260420-sans-ai-cybersecurity-summit---offensive-ai-in-practice-hands-on-exploitation-of-vulnerable-applications-using-open-source-ai-tools)
+- [**2026.03.25** - RSAC AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260325-rsac-appsec-village---ai-pentesting-trivia-showdown)
 - [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#🎙️-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
 - [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
 - [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
@@ -92,11 +94,37 @@ $ cat /proc/presentations/manifest
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │ >> INITIALIZING PRESENTATION MODULES...                        │
-│ >> TIMELINE: 2018.07 - 2026.04                                 │
+│ >> TIMELINE: 2018.07 - 2026.08                                 │
 │ >> THREAT LEVEL: EDUCATIONAL                                   │
 └────────────────────────────────────────────────────────────────┘
 ```
 
+
+### 🎯 **[2026.08.07-08]** DEFCON AppSec Village - *AI Pentesting Trivia Showdown*
+
+```diff
++ PROTOCOL: Trivia Competition | FORMAT: Interactive Showdown
++ PRESENTERS: Andy Dennis + Bill Reyor
++ LOCATION: DEFCON 34, Las Vegas
++ DURATION: 2-day event
++ FOCUS: AI + Penetration Testing + Security Knowledge Competition
+```
+
+Two-day interactive AI pentesting trivia showdown at the AppSec Village during DEFCON 34 in Las Vegas.
+
+Join Andy Dennis and Bill Reyor for an engaging trivia competition testing knowledge of AI security, penetration testing techniques, and application security concepts. This interactive session combines entertainment with education, challenging participants on cutting-edge AI pentesting topics across two action-packed days at the legendary DEFCON conference.
+
+```bash
+# Access Points
+LINK_DAY_1="https://appsecvillage.com/events/dc-2026/ai-pentesting-trivia-showdown-1276045"
+LINK_DAY_2="https://appsecvillage.com/events/dc-2026/ai-pentesting-trivia-showdown-1276044"
+```
+
+**🔗 [NETWORK_LINK_DAY_1]** https://appsecvillage.com/events/dc-2026/ai-pentesting-trivia-showdown-1276045
+
+**🔗 [NETWORK_LINK_DAY_2]** https://appsecvillage.com/events/dc-2026/ai-pentesting-trivia-showdown-1276044
+
+---
 
 ### 🛡️ **[2026.04.20]** SANS AI Cybersecurity Summit - *Offensive AI in Practice: Hands-on Exploitation of Vulnerable Applications Using Open Source AI Tools*
 
@@ -122,6 +150,28 @@ COURSE_MATERIAL="https://github.com/rpigu-i/sans-offensive-ai-in-practice-april-
 **🔗 [NETWORK_LINK]** https://www.sans.org/ai-cybersecurity-summit
 
 **📂 [COURSE_ARCHIVE]** https://github.com/rpigu-i/sans-offensive-ai-in-practice-april-2026
+
+---
+
+### 🎯 **[2026.03.25]** RSAC AppSec Village - *AI Pentesting Trivia Showdown*
+
+```diff
++ PROTOCOL: Trivia Competition | FORMAT: Interactive Showdown
++ PRESENTERS: Andy Dennis + Bill Reyor
++ LOCATION: RSAC, San Francisco
++ FOCUS: AI + Penetration Testing + Security Knowledge Competition
+```
+
+Interactive AI pentesting trivia showdown at the AppSec Village during RSA Conference in San Francisco.
+
+Join Andy Dennis and Bill Reyor for an engaging trivia competition testing knowledge of AI security, penetration testing techniques, and application security concepts. This interactive session combines entertainment with education, challenging participants on cutting-edge AI pentesting topics.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://appsecvillage.com/events/rsac-2026/ai-pentesting-trivia-showdown-xbow-2"
+```
+
+**🔗 [NETWORK_LINK]** https://appsecvillage.com/events/rsac-2026/ai-pentesting-trivia-showdown-xbow-2
 
 ---
 
