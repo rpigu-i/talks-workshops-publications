@@ -58,6 +58,7 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2026.04.20** - SANS AI Cybersecurity Summit - Offensive AI in Practice Workshop](#🛡️-20260420-sans-ai-cybersecurity-summit---offensive-ai-in-practice-hands-on-exploitation-of-vulnerable-applications-using-open-source-ai-tools)
 - [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#🎙️-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
 - [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
 - [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
@@ -91,11 +92,38 @@ $ cat /proc/presentations/manifest
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │ >> INITIALIZING PRESENTATION MODULES...                        │
-│ >> TIMELINE: 2018.07 - 2025.06                                 │
+│ >> TIMELINE: 2018.07 - 2026.04                                 │
 │ >> THREAT LEVEL: EDUCATIONAL                                   │
 └────────────────────────────────────────────────────────────────┘
 ```
 
+
+### 🛡️ **[2026.04.20]** SANS AI Cybersecurity Summit - *Offensive AI in Practice: Hands-on Exploitation of Vulnerable Applications Using Open Source AI Tools*
+
+```diff
++ PROTOCOL: Workshop | DURATION: 2-day
++ PRESENTERS: Andy Dennis + Bill Reyor
++ LOCATION: Arlington, VA
++ FOCUS: Offensive AI + Application Security + Open Source AI Tools
+```
+
+Two-day hands-on workshop at the SANS AI Cybersecurity Summit demonstrating practical exploitation techniques using open source AI tools.
+
+This workshop provides participants with hands-on experience in leveraging AI tools for offensive security testing against vulnerable applications. Attendees will learn practical techniques for identifying and exploiting vulnerabilities using open source AI frameworks and tools.
+
+Workshop covers practical offensive AI techniques, hands-on exploitation exercises, and real-world application security testing scenarios using cutting-edge open source AI tools.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.sans.org/ai-cybersecurity-summit"
+COURSE_MATERIAL="https://github.com/rpigu-i/sans-offensive-ai-in-practice-april-2026"
+```
+
+**🔗 [NETWORK_LINK]** https://www.sans.org/ai-cybersecurity-summit
+
+**📂 [COURSE_ARCHIVE]** https://github.com/rpigu-i/sans-offensive-ai-in-practice-april-2026
+
+---
 
 ### 🎙️ **[2025.06.11]** Security Repo Podcast - *Reducing Developer Toil, Shifting Security Left, And Using Caution With AI*
 
