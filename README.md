@@ -58,10 +58,12 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2026.11.02** - SANS AI Cybersecurity Summit Fall - Offensive AI in Practice Workshop](#🛡️-20261102-sans-ai-cybersecurity-summit-fall---offensive-ai-in-practice-hands-on-exploitation-of-vulnerable-applications-using-open-source-pentest-tools)
 - [**2026.10.02** - XBOW Showcase Tokyo - AI vs AI: Offensive Security with Human + AI](#🎌-20261002-xbow-showcase-tokyo---aiにはaiで対抗する人間aiで実現するオフェンシブセキュリティ)
 - [**2026.08.07-08** - DEFCON AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260807-08-defcon-appsec-village---ai-pentesting-trivia-showdown)
 - [**2026.04.20** - SANS AI Cybersecurity Summit - Offensive AI in Practice Workshop](#🛡️-20260420-sans-ai-cybersecurity-summit---offensive-ai-in-practice-hands-on-exploitation-of-vulnerable-applications-using-open-source-ai-tools)
 - [**2026.03.25** - RSAC AppSec Village - AI Pentesting Trivia Showdown](#🎯-20260325-rsac-appsec-village---ai-pentesting-trivia-showdown)
+- [**2026.03.13** - Security Repo Podcast - Operationalizing AI Pentests](#🎙️-20260313-security-repo-podcast---from-annual-checkbox-to-continuous-sdlc-testing-operationalizing-ai-pentests)
 - [**2025.06.11** - Security Repo Podcast - Reducing Developer Toil, Shifting Security Left, And Using Caution With AI](#🎙️-20250611-security-repo-podcast---reducing-developer-toil-shifting-security-left-and-using-caution-with-ai)
 - [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
 - [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
@@ -121,6 +123,29 @@ LINK_PRIMARY="https://luma.com/rnymukid"
 ```
 
 **🔗 [NETWORK_LINK]** https://luma.com/rnymukid
+
+---
+
+### 🛡️ **[2026.11.02]** SANS AI Cybersecurity Summit Fall - *Offensive AI in Practice: Hands-on Exploitation of Vulnerable Applications Using Open Source Pentest Tools*
+
+```diff
++ PROTOCOL: Workshop | DURATION: 2hrs
++ PRESENTERS: Andy Dennis + Bill Reyor
++ LOCATION: Virtual Event
++ TIME: 15:00 - 17:00 ET
++ FOCUS: Offensive AI + Application Security + Open Source Pentest Tools
+```
+
+Hands-on workshop at the SANS AI Cybersecurity Summit Fall demonstrating practical exploitation techniques using open source AI-powered penetration testing tools.
+
+This workshop provides participants with hands-on experience in leveraging AI tools for offensive security testing against vulnerable applications. Attendees will learn practical techniques for identifying and exploiting vulnerabilities using open source AI frameworks and pentest tools in real-world application security scenarios.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.sans.org/blog/ai-cybersecurity-summit-fall-2026-recap"
+```
+
+**🔗 [NETWORK_LINK]** https://www.sans.org/blog/ai-cybersecurity-summit-fall-2026-recap
 
 ---
 
@@ -196,6 +221,28 @@ LINK_PRIMARY="https://appsecvillage.com/events/rsac-2026/ai-pentesting-trivia-sh
 ```
 
 **🔗 [NETWORK_LINK]** https://appsecvillage.com/events/rsac-2026/ai-pentesting-trivia-showdown-xbow-2
+
+---
+
+### 🎙️ **[2026.03.13]** Security Repo Podcast - *From Annual Checkbox To Continuous SDLC Testing: Operationalizing AI Pentests*
+
+```diff
++ PROTOCOL: Podcast | FORMAT: Interview
++ PRESENTER: Solo Guest Appearance
++ PLATFORM: Security Repo Podcast
++ FOCUS: AI-Backed Pentesting + Continuous SDLC Testing + Enterprise Scale
+```
+
+Podcast episode exploring what it means to implement AI-backed penetration testing at enterprise scale.
+
+Topics covered include how XBOW handles discovery, guardrails, and reporting beyond basic scan outputs. The discussion explores why operationalizing LLM-driven testing requires SaaS-grade controls and infrastructure, plus where the field is heading: continuous SDLC testing, business-logic vulnerability detection, and findings increasingly translate into remediation-ready pull requests.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://podcasts.apple.com/us/podcast/from-annual-checkbox-to-continuous-sdlc-testing-operationalizing/id1634401017?i=1000755136541"
+```
+
+**🔗 [NETWORK_LINK]** https://podcasts.apple.com/us/podcast/from-annual-checkbox-to-continuous-sdlc-testing-operationalizing/id1634401017?i=1000755136541
 
 ---
 
