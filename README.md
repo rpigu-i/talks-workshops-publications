@@ -103,29 +103,6 @@ $ cat /proc/presentations/manifest
 ```
 
 
-### 🎌 **[2026.10.02]** XBOW Showcase Tokyo - *AIにはAIで対抗する：「人間＋AI」で実現するオフェンシブ・セキュリティ*
-
-```diff
-+ PROTOCOL: Talk | FORMAT: Showcase Presentation
-+ PRESENTER: Andy Dennis
-+ LOCATION: SOIl Shibuya, Tokyo, Japan
-+ TIME: 18:40 JST
-+ FOCUS: AI-Powered Offensive Security + Human-AI Collaboration
-```
-
-Talk at XBOW Showcase in Tokyo exploring AI-powered offensive security techniques and the synergy between human expertise and AI capabilities.
-
-This presentation demonstrates how defenders can leverage AI tools to counter AI-enhanced threats, focusing on the "Human + AI" approach to offensive security operations. The session covers practical applications of AI in penetration testing and security assessments within the Japanese cybersecurity context.
-
-```bash
-# Access Points
-LINK_PRIMARY="https://luma.com/rnymukid"
-```
-
-**🔗 [NETWORK_LINK]** https://luma.com/rnymukid
-
----
-
 ### 🛡️ **[2026.11.02]** SANS AI Cybersecurity Summit Fall - *Offensive AI in Practice: Hands-on Exploitation of Vulnerable Applications Using Open Source Pentest Tools*
 
 ```diff
@@ -146,6 +123,29 @@ LINK_PRIMARY="https://www.sans.org/blog/ai-cybersecurity-summit-fall-2026-recap"
 ```
 
 **🔗 [NETWORK_LINK]** https://www.sans.org/blog/ai-cybersecurity-summit-fall-2026-recap
+
+---
+
+### 🎌 **[2026.10.02]** XBOW Showcase Tokyo - *AIにはAIで対抗する：「人間＋AI」で実現するオフェンシブ・セキュリティ*
+
+```diff
++ PROTOCOL: Talk | FORMAT: Showcase Presentation
++ PRESENTER: Andy Dennis
++ LOCATION: SOIl Shibuya, Tokyo, Japan
++ TIME: 18:40 JST
++ FOCUS: AI-Powered Offensive Security + Human-AI Collaboration
+```
+
+Talk at XBOW Showcase in Tokyo exploring AI-powered offensive security techniques and the synergy between human expertise and AI capabilities.
+
+This presentation demonstrates how defenders can leverage AI tools to counter AI-enhanced threats, focusing on the "Human + AI" approach to offensive security operations. The session covers practical applications of AI in penetration testing and security assessments within the Japanese cybersecurity context.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://luma.com/rnymukid"
+```
+
+**🔗 [NETWORK_LINK]** https://luma.com/rnymukid
 
 ---
 
